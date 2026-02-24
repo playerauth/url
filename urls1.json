@@ -1,5 +1,7 @@
 {
   "urls": [
-    "https://raw.githubusercontent.com/playerauth/index/refs/heads/main/index1.json"
+    "https://raw.githubusercontent.com/playerauth/index/refs/heads/main/index1.json",
+    "https://raw.githubusercontent.com/playerauth/index/refs/heads/main/images1.json",
+    "https://raw.githubusercontent.com/playerauth/index/refs/heads/main/videos1.json"
   ]
 }

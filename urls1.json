@@ -1,6 +1,11 @@
 {
   "urls": [
     "https://raw.githubusercontent.com/playerauth/index/refs/heads/main/index1.json",
+    "https://raw.githubusercontent.com/playerauth/index/refs/heads/main/index2.json",
+    "https://raw.githubusercontent.com/playerauth/index/refs/heads/main/index3.json",
+    "https://raw.githubusercontent.com/playerauth/index/refs/heads/main/index4.json",
+   "https://raw.githubusercontent.com/playerauth/index/refs/heads/main/index5.json",
+    "https://raw.githubusercontent.com/playerauth/index/refs/heads/main/index6.json",
     "https://raw.githubusercontent.com/playerauth/index/refs/heads/main/images1.json",
     "https://raw.githubusercontent.com/playerauth/index/refs/heads/main/videos1.json"
   ]
